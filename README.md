@@ -1,3 +1,3 @@
 ## Education.BinaryToDecimal
-####Binary to Decimal and Back Converter  
+#### Binary to Decimal and Back Converter  
 Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent. 
